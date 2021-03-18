@@ -81,14 +81,14 @@ https://youtu.be/T26DVHePlTs
 
 ## เมื่อสร้าง REPO เสร็จแล้วให้ส่งงานโดยการส่งอีเมล์
 
-email: lab63b@tueng.org
-subject: REPO1
-เนื้อหา: https://github.com/account/lab63b.git...
+- email: lab63b@tueng.org
+- subject: REPO1
+- เนื้อหา: https://github.com/account/lab63b.git...
 
 ## ให้ นศ.จัดทำคลิปอธิบาย การทดลองที่จัดทำขึ้น และส่งงานทางอีเมล์ ดังนี้
 
-email: lab63b@tueng.org
-subject: CLIP3
-เนื้อหา: https://youtube clip...
+- email: lab63b@tueng.org
+- subject: CLIP3
+- เนื้อหา: https://youtube clip...
 
 
