@@ -12,6 +12,18 @@ https://medium.com/มาสเตอร์-อึ่ง/การสมัค�
 https://medium.com/ckartisan/แนะนำการใช้งาน-github-com-dbbfbc38bf55
 
 ## ให้ นศ.สร้าง รีโป้ (repository = repo) บน GITHUB โดยให้ชื่อว่า lab63b
+- Start a new git repository 
+https://kbroman.org/github_tutorial/pages/init.html
+- Create a repo
+https://docs.github.com/en/github/getting-started-with-github/create-a-repo
+- Creating a new repository
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
+- Creating a New GitHub Repository
+https://youtu.be/LR5BYZjuXMU
+- How to create a repository in GitHub - CM005
+https://youtu.be/XtCcoMd6U_4
+
+## ให้ เขียนเนื้อหาใน รีโป้ (repo) โดยใช้ MARKDOWN
 - Mastering Markdown
 https://guides.github.com/features/mastering-markdown/
 - MARKDOWN SYNTAX
