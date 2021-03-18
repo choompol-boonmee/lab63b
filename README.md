@@ -42,6 +42,10 @@ https://devahoy.com/blog/2017/02/how-to-host-website-on-github-pages/
 
 
 ## ให้ นศ.ทบทวนความรู้เกี่ยวกับ ESP-01 microcontroller
+โดยซอสโค้ดของ โปรแกรมที่ใช้ทั้งหมดอยู่ที่ repo
+https://github.com/choompol-boonmee/lab63b.git
+อยู่ใต้โฟลเดอร์ examples
+
 - 01 digital
 https://youtu.be/8ErQEAMUAlQ
 - 02 voltage
