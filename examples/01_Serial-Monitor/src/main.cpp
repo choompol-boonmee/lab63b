@@ -11,6 +11,8 @@ void loop()
 {
 	cnt++;
 	Serial.printf("PATTANI :%d\n",cnt);
-	delay(1000);
+	int s = cnt % 5 + 1;
+	int d = s * 1000;
+	delay(d);
 }
 
