@@ -25,7 +25,22 @@ void setup(void){
 		server.send(404, "text/plain", "Path Not Found");
 	});
 
+	/// http://192.0.0.1/ = Hello cnt: ???
 	server.on("/", []() {
+		cnt++;
+		String msg = "Hello cnt: ";
+		msg += cnt;
+		server.send(200, "text/plain", msg);
+	});
+	/// http://192.0.0.1/on = Hello cnt: ???
+	server.on("/on", []() {
+		cnt++;
+		String msg = "Switch on ";
+		msg += cnt;
+		server.send(200, "text/plain", msg);
+	});
+	/// http://192.0.0.1/off = Switch off: ???
+	server.on("/off", []() {
 		cnt++;
 		String msg = "Hello cnt: ";
 		msg += cnt;
